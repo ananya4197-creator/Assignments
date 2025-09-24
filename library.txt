@@ -1,3 +1,0 @@
- Harry Potter: 3
- Python Basics: 2
- Data Science: 1
